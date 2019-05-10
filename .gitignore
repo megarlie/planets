@@ -1,0 +1,6 @@
+#ignore .dat files and reuslts
+*.dat
+results/
+#allow examples to be committed
+!example.dat
+!**/example.out
